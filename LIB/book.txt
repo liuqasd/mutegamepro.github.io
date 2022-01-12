@@ -1,0 +1,5 @@
+1 2 1
+2 qqq www
+3 eee rrr
+4 ttt yyy
+5 111 222
